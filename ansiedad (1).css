@@ -1,0 +1,554 @@
+*{
+    padding: 0px;
+    margin: 0px;
+
+}
+
+li{
+    color: #ee9ca7;
+}
+
+nav ul{
+    background-color: rgb(254, 171, 191);
+    color:rgb(243, 130, 205);
+    width: 100%;
+    list-style-type: none;
+    text-align: center;
+    font-size: 30px;
+    position: fixed;
+    z-index: 1;
+    top: 0cm;
+}
+nav li{
+    display: inline-flex;
+}
+
+nav a{
+color: black;
+text-decoration: none;
+padding: 3px;
+width: 160px;
+font-family: 'Amatic SC', cursive;
+font-size: 120%;
+}
+
+nav li:hover {
+
+    background-color: rgb(202, 59, 106);
+
+}
+
+p{
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    text-align: left;
+    font-style:italic;
+}
+h2{
+    display: flex;
+    height: 170px;
+    width: 98%;
+    font-size: 50px;
+    align-items: center;
+    justify-content: center ;
+    text-align: center;
+    padding: 20px;
+    position: absolute;
+
+    
+}
+h3{
+    font-size: 40px;
+    color: rgb(0, 0, 0);
+    font-style:italic;
+}
+
+
+title{
+    color:rgb(244, 167, 213);
+
+}
+body{
+ background-color: #ffffff;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+.TITULO1{
+
+    color:rgb(243, 134, 168);
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 3.8%;
+    
+}
+img {
+    width:300px;
+    height:360px;
+    margin-bottom: -10%;
+
+
+
+    
+  }
+
+
+ .ansiedad{
+    width: 48%;
+
+   
+
+}
+.contenido-ansiedad {
+
+    margin-bottom: 15px;
+font-size: 21.5px;
+margin-top: 7%;
+top: 100%;
+display: flex;
+margin-bottom: 15px;
+margin-left: 75px;
+
+
+
+}
+ h4 span{
+    background: #ec77a0;
+  color: aliceblue;
+  border-radius: 50%;
+  display: inline-block;
+  text-align: center;
+  width: 30px;
+  height: 30px;
+  padding: 3px;
+  box-shadow: 0 0 6px rgba(0, 0, 0, .5);
+margin-right: 5px;
+
+}
+
+
+.contenido-ansiedad-izquierdo{
+    margin-bottom: 15px;
+font-size: 21.5px;
+margin-top: 7%;
+top: 100%;
+display: flex;
+margin-bottom: 15px;
+margin-left: 850px;
+margin-right: 75px;
+}
+#cuatro {
+
+    margin-top: -23%;
+
+top: 100%;
+
+}
+
+.generalizada {
+
+  
+    color:rgb(221, 112, 146);
+     font-size:33px;
+     margin-bottom: 90px;
+     margin-top: 13%;
+     margin-left: 75px;
+ 
+     
+ }
+ 
+ #generalizada {
+ 
+     margin-right: 100px;
+ 
+     font-weight: 300;
+     text-align: justify;
+     margin-left: 3%;
+ }
+ 
+ .sintomasg {
+ 
+     color:rgb(221, 112, 146);
+     font-size: 27px;
+     margin-bottom: 90px;
+     margin-top: 0%;
+     margin-left: 75px;
+ 
+ 
+ }
+ 
+ #sintomasg {
+     margin-right: 100px;
+ 
+     font-weight: 300;
+     text-align: justify;
+     margin-top: 2%;
+     margin-left: 30px;
+ }
+ 
+     #textog{
+ 
+         margin-right: 100px;
+ 
+      
+         text-align: justify;
+         margin-top: 4%;
+         margin-left: 30px;
+ 
+     }
+     .tratamientog {
+ 
+         color:rgb(221, 112, 146);
+         font-size: 27px;
+         margin-bottom: 90px;
+         margin-top: 0%;
+         margin-left: 75px;
+     }
+ 
+     #tratamientog {
+ 
+         margin-right: 100px;
+ 
+         font-weight: 300;
+         text-align: justify;
+         margin-left: 3%;
+     }
+ 
+     .separacion {
+ 
+   
+         color:rgb(221, 112, 146);
+          font-size:33px;
+          margin-bottom: 90px;
+          margin-top: 13%;
+          margin-left: 75px;
+      
+          
+      }
+      
+      #separacion {
+      
+          margin-right: 100px;
+      
+          font-weight: 300;
+          text-align: justify;
+          margin-left: 3%;
+      }
+      .sintomast {
+ 
+         color:rgb(221, 112, 146);
+         font-size: 27px;
+         margin-bottom: 90px;
+         margin-top: 0%;
+         margin-left: 75px;
+     
+     
+     }
+     
+     #sintomast {
+         margin-right: 100px;
+     
+         font-weight: 300;
+         text-align: justify;
+         margin-top: 2%;
+         margin-left: 30px;
+     }
+ 
+     .tratamientot {
+ 
+         color:rgb(221, 112, 146);
+         font-size: 27px;
+         margin-bottom: 90px;
+         margin-top: 0%;
+         margin-left: 75px;
+     }
+ 
+     #tratamientot {
+ 
+         margin-right: 100px;
+ 
+         font-weight: 300;
+         text-align: justify;
+         margin-left: 3%;
+     }
+     
+     .social {
+ 
+   
+         color:rgb(221, 112, 146);
+          font-size:33px;
+          margin-bottom: 90px;
+          margin-top: 13%;
+          margin-left: 75px;
+      
+          
+      }
+      
+      #social {
+      
+          margin-right: 100px;
+      
+          font-weight: 300;
+          text-align: justify;
+          margin-left: 3%;
+      }
+      .sintomass {
+ 
+         color:rgb(221, 112, 146);
+         font-size: 27px;
+         margin-bottom: 90px;
+         margin-top: 0%;
+         margin-left: 75px;
+     
+     
+     }
+     
+     #sintomass {
+         margin-right: 100px;
+     
+         font-weight: 300;
+         text-align: justify;
+         margin-top: 2%;
+         margin-left: 30px;
+     }
+ 
+      
+     .tratamientoso {
+ 
+        color:rgb(221, 112, 146);
+        font-size: 27px;
+        margin-bottom: 90px;
+        margin-top: 0%;
+        margin-left: 75px;
+    }
+
+    #tratamiento {
+
+        margin-right: 100px;
+
+        font-weight: 300;
+        text-align: justify;
+        margin-left: 3%;
+    }
+          
+     .panico {
+ 
+   
+        color:rgb(221, 112, 146);
+         font-size:33px;
+         margin-bottom: 90px;
+         margin-top: 13%;
+         margin-left: 75px;
+     
+         
+     }
+
+     #panico {
+      
+        margin-right: 100px;
+    
+        font-weight: 300;
+        text-align: justify;
+        margin-left: 3%;
+    }
+    .sintomasp {
+
+       color:rgb(221, 112, 146);
+       font-size: 27px;
+       margin-bottom: 90px;
+       margin-top: 0%;
+       margin-left: 75px;
+   
+   
+   }
+   
+   #sintomasp {
+       margin-right: 100px;
+   
+       font-weight: 300;
+       text-align: justify;
+       margin-top: 2%;
+       margin-left: 30px;
+   }
+
+   .tratamientop {
+
+       color:rgb(221, 112, 146);
+       font-size: 27px;
+       margin-bottom: 90px;
+       margin-top: 0%;
+       margin-left: 75px;
+   }
+
+   #tratamientop {
+
+       margin-right: 100px;
+
+       font-weight: 300;
+       text-align: justify;
+       margin-left: 3%;
+   }
+
+   .sustancias {
+ 
+   
+    color:rgb(221, 112, 146);
+     font-size:33px;
+     margin-bottom: 90px;
+     margin-top: 13%;
+     margin-left: 75px;
+ 
+     
+ }
+
+ #sustancias {
+  
+    margin-right: 100px;
+
+    font-weight: 300;
+    text-align: justify;
+    margin-left: 3%;
+}
+.sintomassust {
+
+   color:rgb(221, 112, 146);
+   font-size: 27px;
+   margin-bottom: 90px;
+   margin-top: 0%;
+   margin-left: 75px;
+
+
+}
+
+.sintomassus {
+   margin-right: 100px;
+
+   font-weight: 300;
+   text-align: justify;
+   margin-top: 2%;
+   margin-left: 30px;
+}
+
+.tratamientosus {
+
+   color:rgb(221, 112, 146);
+   font-size: 27px;
+   margin-bottom: 90px;
+   margin-top: 0%;
+   margin-left: 75px;
+}
+
+#tratamientosus {
+
+   margin-right: 100px;
+
+   font-weight: 300;
+   text-align: justify;
+   margin-left: 3%;
+}
+
+
+.fobias {
+ 
+   
+    color:rgb(221, 112, 146);
+     font-size:33px;
+     margin-bottom: 90px;
+     margin-top: 13%;
+     margin-left: 75px;
+ 
+     
+ }
+
+ #fobias {
+  
+    margin-right: 100px;
+
+    font-weight: 300;
+    text-align: justify;
+    margin-left: 3%;
+}
+.sintomasfob {
+
+   color:rgb(221, 112, 146);
+   font-size: 27px;
+   margin-bottom: 90px;
+   margin-top: 0%;
+   margin-left: 75px;
+
+
+}
+
+.sintomasf {
+   margin-right: 100px;
+
+   font-weight: 300;
+   text-align: justify;
+   margin-top: 2%;
+   margin-left: 30px;
+}
+
+.sintomasfobias {
+
+    color:rgb(221, 112, 146);
+    font-size: 27px;
+    margin-bottom: 90px;
+    margin-top: 0%;
+    margin-left: 75px;
+ 
+ 
+ }
+ 
+ .sintomasfo {
+    margin-right: 100px;
+ 
+    font-weight: 300;
+    text-align: justify;
+    margin-top: 2%;
+    margin-left: 30px;
+ }
+
+.tratamientofob {
+
+   color:rgb(221, 112, 146);
+   font-size: 27px;
+   margin-bottom: 90px;
+   margin-top: 0%;
+   margin-left: 75px;
+}
+
+#tratamientofob {
+
+   margin-right: 100px;
+
+   font-weight: 300;
+   text-align: justify;
+   margin-left: 3%;
+}
+
+
+
+ 
+header{
+
+    background: #ee9ca7b9;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #ffdde1cb, #ee9ca7cb); /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #ffdde1ce, #ee9ca7be); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+width: 100%;
+height: 550px;
+
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
